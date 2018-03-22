@@ -1,1 +1,13 @@
 
+pragma solidity ^0.4.18;
+contract Notaire 
+{
+    string hash;
+    
+    function Notaire( string _hash) public
+    {
+        hash = _hash;
+    }
+    
+
+}
