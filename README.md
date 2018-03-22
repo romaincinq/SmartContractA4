@@ -12,9 +12,7 @@ In this repository, they are 3 files :
  
  -TP2 about the smart contract on the Token 
  
- -TP3 about the smart contract on the Proof of existence.
- 
- I'm really sorry but i couldn't realise the smart contract on the TP3 so there is just the caneva and no code associate to it for this one.
+ -TP3 about the smart contract on the Proof of existence (using SHA256).
  
  I hope you will enjoy your visit on this repository and i'm thankful for what you allow us to learn about blockchain this year. 
  
