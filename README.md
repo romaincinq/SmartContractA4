@@ -1,10 +1,10 @@
 # SmartContractA4
 
-Welcome to my github repository. 
+Welcome to my Github repository. 
 
-My name is Romain CINQUILLI and I'm not in group, so i done everything alone by myself for this course. 
+My name is Romain CINQUILLI and I'm not in a group, so I done everything by myself for this TP. 
 
-In this GitHub you will find some Caneva about Smart Contract that I made during my 4th year a ESILV.
+In this GitHub you will find Canevas and Smart Contract that I made during my 4th year a ESILV.
 
 In this repository, they are 3 files :
  
